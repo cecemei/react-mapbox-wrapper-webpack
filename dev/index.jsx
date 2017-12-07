@@ -1,7 +1,6 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Root from './root';
 import Map from './map';
 import './css/style.css';
 

@@ -15,7 +15,7 @@ class Map extends Component {
 
   render() {
     return (
-      <div className='Map' ref={(x) => { this.container = x }}>
+      <div id='map' ref={(x) => { this.container = x }}>
       </div>
     )
   }
