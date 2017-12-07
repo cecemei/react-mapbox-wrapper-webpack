@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 20;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.App {
+  padding: 60px;
+}
+
+.Map {
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:100%; 
+}
